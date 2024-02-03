@@ -10,8 +10,8 @@ Abaixo o link para pesquisa de perfil:
 ## Dá uma olhada 👀
 
 <p align="left">
-<img src="https://github.com/DianaMartine/github-finder-dio-mentoria/blob/main/example1.jpg?raw=true" width="200"/>
-<img src="https://github.com/DianaMartine/github-finder-dio-mentoria/blob/main/example2.jpg?raw=true" width="200"/>
+<img src="https://github.com/leodario/finder/assets/6862531/85a02381-7436-4d6d-828a-b16033156586" width="200"/>
+<img src="https://github.com/leodario/finder/assets/6862531/0ead9a8c-d0c8-4671-ad00-b341fad96896" width="200"/>
 </p>
 
 ### Quer conferir funcionando?
