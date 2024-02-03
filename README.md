@@ -17,16 +17,6 @@ Abaixo o link para pesquisa de perfil:
 ### Quer conferir funcionando?
 
 <p>
-  <a href="https://dianamartine.github.io/github-finder-dio-mentoria/" target="_blank">Clique aqui jovem!</a>
+  <a href="https://leodario.github.io/finder/" target="_blank">Clique aqui.</a>
   </p>
 
-# Sobre a autora 📒 :
-   
-   <p>
-    Programadora e desenvolvedora Front-end certificada pelo programa de capacitação TRANS.FORMA ofertado pelo Porto Digital. Estudante de Psicologia (UNISÃOMIGUEL) e Análise e Desenvolvimento de Sistemas (UNINABUCO). Musicista profissional, violonista, multi-instrumentista.
-         
-<br>
-      
-Caso esse repositório tenha te ajudado com seus estudos de alguma forma:      
-- 🤝 Fork este repositório para estudo e contribua com o conhecimento.
-- ⭐ deixe sua estrela neste repositório.
