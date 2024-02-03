@@ -1,14 +1,10 @@
 # github-finder-dio-mentoria 🚀
 
-Tudo certo jovem?
+Sempre busco aprimorar minhas habilidades nas linguagens de programação que utilizo, e uma das minhas preferidas é o JavaScript. Recentemente, tive uma aula de reciclagem com a Dio, onde desenvolvemos uma aplicação que recupera informações de usuários do GitHub. Basta passar o nome de usuário como parâmetro, e a aplicação retorna dados como nome, login, repositórios públicos, entre outros.
 
-Você chegou aqui a partir do bootcamp da Digital Innovation One em parceria com a TakeBlip?
+Gostaria de expressar minha gratidão à Diana Martine, uma programadora talentosa, por compartilhar seus conhecimentos nessa aula de reciclagem. E para nós, os 'dinossauros' programadores (sim, me incluo nessa categoria, haha), é essencial estarmos sempre antenados às novidades. A tecnologia é um organismo vivo em constante evolução, e devemos nos adaptar e melhorar continuamente para acompanhá-la."
 
-Então tu podes baixar esse repo ou clonar na sua máquina pra gente poder dar continuidade ao nosso desenvolvimento ^^.
-
-## Sobre o projeto 🔎
-
-Consiste numa app que recupera informações de usuários do github, passando o nome de usuário como parâmetro, retornando os dados como por exemplo: name; login; public repos...
+Abaixo o link para pesquisa de perfil:
 
 
 ## Dá uma olhada 👀
